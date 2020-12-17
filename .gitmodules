@@ -1,6 +1,6 @@
 [submodule "efficientnet_repo/Yet_Another_EfficientDet_Pytorch"]
 	path = efficientnet_repo/Yet_Another_EfficientDet_Pytorch
-	url = https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch.git
+	url = https://github.com/voidbag/Yet-Another-EfficientDet-Pytorch.git
 [submodule "efficientnet_repo/EfficientNet_PyTorch"]
 	path = efficientnet_repo/EfficientNet_PyTorch
-	url = https://github.com/lukemelas/EfficientNet-PyTorch.git
+	url = https://github.com/voidbag/EfficientNet-PyTorch.git
