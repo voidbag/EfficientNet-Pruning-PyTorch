@@ -1,5 +1,6 @@
 # EfficientNet-Pruning-PyTorch
 Pruning Project for EfficientNet
+
 It supports two different implementations of EfficientNet in https://github.com/lukemelas/EfficientNet-PyTorch and https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch
 
 ## Installation Steps
