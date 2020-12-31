@@ -1,3 +1,4 @@
 *.swp
 *.pkl
 *.txt
+.ipynb_checkpoints
